@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicky Montañez 🧿✨</h1>
 <h3 align="center">A young-dumb 😋 backend developer from Colombia 🇨🇴✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickymontanezcampus&label=Profile%20views&color=0e75b6&style=flat" alt="vickymontanezcampus" /> </p>
-
 - 🌱 I’m currently learning **Frameworks and backend courses. ✨**
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP, JS AND MYSQL ✨**
